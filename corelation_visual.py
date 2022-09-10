@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 26 17:48:43 2022
-
-@author: FITRI HESTIKARANI
-"""
-
 import matplotlib.pyplot as plt
 import pickle
 import math
